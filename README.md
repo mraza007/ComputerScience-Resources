@@ -9,6 +9,7 @@
 5) [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview) A Course Designed to help students with Software Engineering Interviews.
 6) [Star This GitHub repo](https://github.com/andreis/interview) Everything you need to for the technical Interview
 7) [System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) 
+8) [Github Repo for Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ### More resources Comming soon till then feel free to contribute to this repo
 ![Thank you Gif](https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif)
